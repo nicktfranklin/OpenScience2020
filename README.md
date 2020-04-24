@@ -79,7 +79,7 @@ You have a couple of options that allow you to host the code in your repository 
 
 We've created an example notebook to use with [Binder](https://mybinder.org).  This example looks at the problem of change-points and how a simple reinforcement learning model handels them:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicktfranklin/OpenScienceWorkshop2019/master?filepath=JupyterNotebooks%2FChangePointDetection%20Demo.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicktfranklin/OpenScience2020/master?filepath=JupyterNotebooks%2FChangePointDetection%20Demo.ipynb) 
 
 
 ### Google Colab
@@ -90,7 +90,7 @@ We've created an example notebook to use with [Binder](https://mybinder.org).  T
 
 Below, we have a tutorial on writting code that's user-friendly and with some helpful functions in Colab.
 
-<a href="https://colab.research.google.com/github/nicktfranklin/OpenScienceWorkshop2019/blob/master/JupyterNotebooks/SimpleColab_OpenScienceWorkshop.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a> 
+<a href="https://colab.research.google.com/github/nicktfranklin/OpenScience2020/blob/master/JupyterNotebooks/SimpleColab_OpenScienceWorkshop.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a> 
 
 #### Deep Learning in Colab
 One of the nice things about Colab is that you can use GPUs for free to run distributed computing software like Tensorflow and PyTorch.  Google has a number of excelent tutorials for this in the main page ([here](https://colab.research.google.com/)), but here is demonstration a Variational Autoencoder processing handwritten digits: [link](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb)
