@@ -1,5 +1,5 @@
 # OpenScienceWorkshop2019
-Welcome to the Open Science Workshop Github Repository!  You can find the slides for the workshop on [here](https://www.github.com/nicktfranklin/OpenScienceWorkshop2020/WorkshopSlides.pptx).  This workshop was originally developed by myself (Nicholas Franklin) and Stephanie DeCross, and you can find our original slides on zenodo: [https://zenodo.org/record/3550236](https://zenodo.org/record/3550236)).
+Welcome to the Open Science Workshop Github Repository!  You can find the slides for the workshop on [here](https://github.com/nicktfranklin/OpenScience2020/blob/master/WorkshopSlides.pptx).  This workshop was originally developed by myself (Nicholas Franklin) and Stephanie DeCross, and you can find our original slides on zenodo: [https://zenodo.org/record/3550236](https://zenodo.org/record/3550236)).
 
 This repository contains some simple examples of how code, specifically, *Jupyter Notebooks*, integrate with Github and and be run online. 
 
