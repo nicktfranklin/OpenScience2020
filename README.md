@@ -1,5 +1,5 @@
 # Open Science Workshop 2020
-Welcome to the Open Science Workshop Github Repository!  You can find the slides for the workshop on [here](https://raw.githubusercontent.com/nicktfranklin/OpenScience2020/blob/master/WorkshopSlides.pptx).  This workshop was originally developed by myself (Nicholas Franklin) and Stephanie DeCross, and you can find our original slides on zenodo: [https://zenodo.org/record/3550236](https://zenodo.org/record/3550236)).
+Welcome to the Open Science Workshop Github Repository!  [You can find the slides for the workshop here](https://github.com/nicktfranklin/OpenScience2020/blob/master/WorkshopSlides.pptx).  This workshop was originally developed by myself (Nicholas Franklin) and Stephanie DeCross, and you can find our original slides on zenodo: [https://zenodo.org/record/3550236](https://zenodo.org/record/3550236)).
 
 <!-- <a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a> -->
 
